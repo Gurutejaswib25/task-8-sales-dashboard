@@ -1,0 +1,32 @@
+📈 From Line Chart (Sales Over Time)
+Sales showed a steady growth trend from January to March, indicating a seasonal demand increase.
+
+A noticeable dip in sales occurred in February, possibly due to post-holiday slowdown or fewer working days.
+
+Peak sales occurred in the last quarter of the year, suggesting strong performance during the holiday season.
+
+📊 From Bar Chart (Sales by Region)
+The West region had the highest total sales, outperforming all other regions consistently.
+
+The South region generated the lowest revenue, indicating a potential area for improvement or focus.
+
+Sales in the Central and East regions were close, but Central slightly outperformed East.
+
+🍕 From Pie Chart (Sales by Category)
+Technology was the top-performing category, contributing the largest portion of overall sales.
+
+Office Supplies had a moderate share of sales, but may have lower profit margins.
+
+Furniture had the smallest sales share, possibly due to high unit prices or less frequent purchases.
+
+
+Insights from Superstore Sales Dashboard:
+
+1. Sales increased steadily from January to March.
+2. February recorded the lowest sales, indicating a mid-quarter dip.
+3. West region led all regions in total sales.
+4. South region had the lowest revenue contribution.
+5. Technology category dominated the sales distribution.
+6. Furniture had the smallest share among the three product categories.
+7. Central and East regions performed almost equally in sales.
+8. Sales peaked during the year-end period, likely driven by holiday demand.
